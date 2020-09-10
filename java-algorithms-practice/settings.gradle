@@ -1,2 +1,3 @@
 rootProject.name = 'java-algorithms-practice'
+include 'sort-algorithms'
 
